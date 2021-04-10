@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/Houdini473/fullcalendarInteraction#readme",
   "dependencies": {
-    "@houdini473/common": "^1.0.0",
+    "@houdini473/common": "^1.0.1",
     "tslib": "^2.2.0"
   },
   "main": "main.cjs.js",
